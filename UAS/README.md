@@ -18,7 +18,7 @@ Install postman
 https://www.postman.com/downloads/
 
 get kamera list
-<img src='img/get_ponsel.png' alt='kamera list'/>
+<img src='img/get_kamera.png' alt='kamera list'/>
 
 get recommendations saw
 <img src='img/get_saw.png' alt='recommendations saw'/>
